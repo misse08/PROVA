@@ -51,4 +51,5 @@ Se o jogador vencer, a mensagem "VOCÊ GANHOU!" é exibida.
 O jogador pode reiniciar o jogo pressionando a tecla R.
 ![Captura de tela 2025-03-05 165214](https://github.com/user-attachments/assets/47b05436-0907-482d-b0c2-501ec59f74a6)
 ![Captura de tela 2025-03-05 165231](https://github.com/user-attachments/assets/942e18d3-3420-4ab3-a682-388ce8eabbf1)
+![Captura de tela 2025-03-05 170644](https://github.com/user-attachments/assets/4fe28f52-666d-4758-a6e2-5bf83a41842c)
 
